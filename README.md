@@ -47,7 +47,8 @@
   </p>
  <br>
 
-
+this project was a practis to use  pure css with html  , without functional intreact .
+هذا المشروع تم باستخدام سي اس اس  مع اتش تي ام ال , بدون اي جافاسكريت  
 
  
  <br>
