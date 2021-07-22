@@ -34,8 +34,11 @@
 
 
 <br>
+<h1> 
+ https://pottery-bh.netlify.app/
+</h1>
 <br>
-<h1> [الموقع ديمو](https://pottery-bh.netlify.app/)
+
 
   <p align="center" >
 
